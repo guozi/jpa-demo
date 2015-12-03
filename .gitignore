@@ -1,0 +1,29 @@
+# IDEA #
+*.iml
+.idea
+out
+
+# eclipse #
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# ignore Maven generated target folders
+target
+
+# ignore eclipse files
+.project
+.classpath
+.settings
+.metadata
+classes
+bin
+
+# Spring IDE #
+.springBeans
+
+
